@@ -1,0 +1,10 @@
+Data Dict
+Sentence
+Emoji
+0 = joy 😆
+1 = fear 😱
+2 = anger 😡
+3 = sadness 😭
+4 = disgust 🤮
+5 = shame 😳
+6 = guilt 😞
